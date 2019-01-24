@@ -1,0 +1,7 @@
+{
+  "name": "lets-gammon-api",
+  "dependencies": {
+    "aws-sdk": "^2.392.0",
+    "uuid": "^3.3.2"
+  }
+}
